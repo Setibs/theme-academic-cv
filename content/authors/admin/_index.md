@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Sergio Blázquez
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sergio Blázquez
 
 # Full name (for SEO)
 first_name: Sergio Blázquez
